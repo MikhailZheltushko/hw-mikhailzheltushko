@@ -1,6 +1,7 @@
-go 1.20
+go 1.22.1
 
 use (
+	./hw01_hello_otus
 	./hw02_fix_app
 	./hw03_chessboard
 	./hw04_struct_comparator
