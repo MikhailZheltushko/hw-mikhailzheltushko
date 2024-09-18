@@ -55,7 +55,7 @@ func NewBook(title string, author string, year int, size int, rate float64) *Boo
 func main() {
 	myBook := Book{
 		id:     1,
-		title:  "Go Programming",
+		title:  "Golang Programming",
 		author: "John Doe",
 		year:   2021,
 		size:   300,
