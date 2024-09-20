@@ -1,3 +1,3 @@
-module github.com/fixme_my_friend/hw07_word_counter
+module github.com/MikhailZheltushko/hw-mikhailzheltushko/hw07_word_counter
 
 go 1.20
