@@ -11,7 +11,8 @@ linters-settings:
   govet:
     # Report about shadowed variables.
     # Default: false
-    check-shadowing: true
+    enable:
+      - shadow
     settings:
       shadow:
         # Whether to be strict about shadowing; can be noisy.
